@@ -1,0 +1,21 @@
+button {
+    background-color: red;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    box-shadow: 2px 5px 5px rgb(0, 0, 0);
+    cursor: pointer;
+    padding: 10px
+}
+
+p {
+    color: rgb(14, 14, 186);
+}
+
+h1 {
+    color: red;
+}
+
+.button :hover{
+    color: black;
+    background-color: green;
+}
